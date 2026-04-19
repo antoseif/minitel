@@ -1,0 +1,16 @@
+<service>
+  <interpreteur url="http://www.minipavi.fr/XMLint/?xurl=" />
+  <debut nom="sommaire" />
+  <page nom="Sommaire">
+    <ecran>
+      <affiche url="barbie.vdt" />
+    </ecran>
+    <entree>
+      <zonesaisie ligne="10" col="1" longueur="1" curseur="visible" />
+      <validation touche="ENVOI" />
+    </entree>
+    <action defaut="Choix incorrect !">
+      <saisie touche="ENVOI" suivant="test" />
+    </action>
+  </page>
+</service>
