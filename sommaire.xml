@@ -3,7 +3,7 @@
   <debut nom="sommaire" />
   <page nom="sommaire">
     <ecran>
-      <affiche url="http://github.com/antoseif/minitel/barbie.vdt" />
+      <affiche url="https://antoseif.github.io/minitel/barbie.vdt" />
     </ecran>
     <entree>
       <zonesaisie ligne="10" col="1" longueur="1" curseur="visible" />
