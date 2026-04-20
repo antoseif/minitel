@@ -3,7 +3,7 @@
   <debut nom="sommaire" />
   <page nom="sommaire">
     <ecran>
-      <affiche url="barbie.vdt" />
+      <affiche url="/barbie.vdt" />
     </ecran>
     <entree>
       <zonesaisie ligne="10" col="1" longueur="1" curseur="visible" />
