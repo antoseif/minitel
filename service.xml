@@ -1,7 +1,7 @@
 <service>
   <interpreteur url="http://www.minipavi.fr/XMLint/?xurl=" />
   <debut nom="sommaire" />
-  <page nom="Sommaire">
+  <page nom="sommaire">
     <ecran>
       <affiche url="barbie.vdt" />
     </ecran>
